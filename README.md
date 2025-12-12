@@ -1,5 +1,4 @@
-# List of sql projects
+# List of Datacamp Projects
 
-## Datacamp
-1. Analyzing Students' Mental Health
-2. 
+1. Analyzing Students' Mental Health using SQL
+2. Classifying Email using Llama
